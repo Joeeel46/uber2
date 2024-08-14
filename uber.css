@@ -1,0 +1,29 @@
+nav{
+    background-color: black;
+}
+
+.section-1{
+    background-color: black;
+}
+main input{
+    height:45px;
+
+    
+}
+footer{
+    background-color: black;
+}
+footer .container{
+    color: white;
+}
+.foot-3 img{
+    height: 50px;
+    
+}
+
+.foot-4 a{
+  color: grey;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
